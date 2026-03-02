@@ -6,6 +6,8 @@
 
 The Wazir sound pack for [peon-ping](https://github.com/PeonPing/peon-ping) — voice lines from The Wazir in Stronghold Crusader.
 
+The Wazir is a calculating, politically astute Arabian lord who prefers manipulation to open confrontation. He speaks in careful, layered language and always has an angle — positioning himself to benefit regardless of which way the battle turns.
+
 ## Install
 
 ```bash
